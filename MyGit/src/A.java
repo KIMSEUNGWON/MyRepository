@@ -7,5 +7,8 @@ public class A {
 		
 		B b = new B();
 		b.printB();
+
+		C c = new C();
+		c.printC();
 	}
 }
